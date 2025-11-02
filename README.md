@@ -1,0 +1,1 @@
+The Medical Inventory Management System (MIMS) is a Salesforce-based application designed to streamline and automate the management of medical supplies, suppliers, and purchase orders in healthcare institutions. It helps hospitals maintain accurate stock levels, prevent shortages, and improve procurement efficiency through data-driven dashboards and reports.
